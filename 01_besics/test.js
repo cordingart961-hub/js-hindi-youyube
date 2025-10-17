@@ -4,3 +4,4 @@ var accountPassword = '1234';
 accountCity = 'pratapgarh';
 
 console.log(accountId);
+console.table([accountId,accountEmail,accountPassword,accountCity]);
